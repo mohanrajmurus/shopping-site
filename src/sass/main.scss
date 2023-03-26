@@ -3,4 +3,10 @@
 @import './abstract/variables';
 
 
-@import './pages/product'
+@import './pages/home';
+@import './pages/productPage';
+@import './pages/cart';
+.container{
+    position: relative;
+    background-color: #fff;
+}
